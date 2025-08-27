@@ -1,0 +1,4 @@
+1. ls (list) - Shows the content of the current directory
+2. cd (change directory) <directory name> - changes the current directory
+3. code <file_name> - opens file in text editor
+4. mkdir (make directory) <directory_name> - creates a folder
