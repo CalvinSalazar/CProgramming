@@ -1,4 +1,8 @@
-1. ls (list) - Shows the content of the current directory
-2. cd (change directory) <directory name> - changes the current directory
-3. code <file_name> - opens file in text editor
-4. mkdir (make directory) <directory_name> - creates a folder
+ ls (list) - Shows the content of the current directory
+ cd (change directory) <directory name> - changes the current directory
+ code <file_name> - opens file in text editor
+ mkdir (make directory) <directory_name> - creates a folder
+ data type name ; ex. int name = value;
+ printf ("%d", name);
+ git status
+ git add <file_name>
