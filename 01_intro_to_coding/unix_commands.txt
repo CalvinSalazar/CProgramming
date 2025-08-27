@@ -4,5 +4,13 @@
  mkdir (make directory) <directory_name> - creates a folder
  data type name ; ex. int name = value;
  printf ("%d", name);
- git status
- git add <file_name>
+ git status = shows the status of the repository
+ git add <file_name> = adds file to stage
+ git commit -m "Message" = commits changes to files
+ git push = pushes files to repository
+ \n = newline
+ \t = tab
+ \b = backspace
+ \r = moves cursor to start of line
+ \\ = prints single \
+ ./a.out name = runs program
