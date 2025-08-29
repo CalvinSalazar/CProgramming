@@ -14,3 +14,4 @@
  \r = moves cursor to start of line
  \\ = prints single \
  ./a.out name = runs program
+ puts ("Message:"); = Like printf but no formatting needed
