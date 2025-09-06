@@ -1,7 +1,11 @@
 #include <stdio.h>
-
 int main(void) {
-    printf("Welcome to \"COP 2271\"\nAssignment 2");
-
-    printf("\nLet's CODE\\Program!\n");
+    int favNumber = 0;
+    int birthYear = 0;
+    printf("Enter your favorite number: ");
+    scanf("%d", &favNumber);
+    printf("Enter your birth year: ");
+    scanf("%d", &birthYear);
+    int product = favNumber * birthYear;
+    printf("Product of the two entered numbers is: %d", product);
 }
