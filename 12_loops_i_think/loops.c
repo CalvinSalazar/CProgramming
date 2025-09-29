@@ -1,4 +1,4 @@
-#include <stdio.h>
+/* #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
 
@@ -11,7 +11,13 @@ void printNRandom(int n);
 int main (void){
     scanf("%d", &n);
     countDown (n);
-    printNRandom (n);
+   printNRandom (n);
+
+   int counter = 1;
+   while (counter <= 10){
+   puts("I love coding!");
+   counter = counter + 1;
+   }
 }
 
 void countDown (int n){
@@ -27,3 +33,4 @@ while (i < n){
     i = i + 1;
 }
 }
+*/
