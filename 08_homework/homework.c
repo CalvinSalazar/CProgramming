@@ -1,4 +1,4 @@
-#include <stdio.h>
+ #include <stdio.h>
 int main(void) {
     int favNumber = 0;
     int birthYear = 0;
